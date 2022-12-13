@@ -1,0 +1,5 @@
+Ini adalah text rahasia yang hanya bisa diakses jika password yg anda tulis benar.
+Ini adalah text rahasia  baris dua yang hanya bisa diakses jika password yg anda tulis benar.
+Ini adalah text rahasia  baris tiga yang hanya bisa diakses jika password yg anda tulis benar.
+Ini adalah text rahasia  baris empat yang hanya bisa diakses jika password yg anda tulis benar.
+Ini adalah text rahasia  baris lima yang hanya bisa diakses jika password yg anda tulis benar.
